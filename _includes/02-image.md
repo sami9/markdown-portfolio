@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Imagen de lobo aullando a la luna](https://image.freepik.com/vector-gratis/lobo-aullando-acantilado_104785-528.jpg)
